@@ -74,6 +74,7 @@
 
 ## Links 
 - Support Server: https://dsc.gg/hackthecat
+- Bot Invite: https://dsc.gg/hacktcat
 - Website: https://hacktcat.github.io/
 - GitHub: https://github.com/hacktcat or https://github.com/AtlasL1
 - Main GitHub Repository: https://github.com/hacktcat/hacktcat.github.io
