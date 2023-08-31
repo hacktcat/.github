@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="[invi.png](https://github.com/hacktcat/hacktcat.github.io/blob/main/invi.png?raw=true)">
+    <img width="200" src="https://github.com/hacktcat/hacktcat.github.io/blob/main/invi.png?raw=true">
 </p>
 <h1 align="center">Hack the Cat</h1>
 <p align="center">An interactive Discord game bot currently in the works. </p>
