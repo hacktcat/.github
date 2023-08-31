@@ -42,10 +42,12 @@
 ## Credits 
 #### API(s) Used: 
 - https://catapi--xjrfttp5cz.repl.co/
+- https://captchaapi.h1jr1s.repl.co/captcha?text=captchaTest
 - https://api.nasa.gov/
    
 #### API Provider(s):
 - Cat Generator API - cazzo
+- Captcha Generator API - un1que
 
 #### Bot Owner 
 - AtlasL
