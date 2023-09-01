@@ -71,6 +71,8 @@
 #### System Testers - 2nd Round
 - Frost5ive
 - evelyne
+- cazzo
+- Ikeaaa
 
 ## Links 
 - Support Server: https://dsc.gg/hackthecat
