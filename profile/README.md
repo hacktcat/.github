@@ -45,8 +45,7 @@
 - https://api.nasa.gov/
    
 #### API Provider(s):
-- Cat Generator API - cazzo
-- Captcha Generator API - un1que
+- Cat Generator API - m30w
 
 #### Bot Owner 
 - AtlasL
